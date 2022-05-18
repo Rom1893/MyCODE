@@ -1,0 +1,14 @@
+h1{
+    background-color: red;
+    border: rebeccapurple solid 5px;
+    display: inline;
+}
+ h2 { background-color: #128547b9;
+    border: 1px black solid;
+    display: inline;
+}
+
+section { font-size: 20px;
+}
+ p { font-size: 1em;
+     margin-left: 2em;}

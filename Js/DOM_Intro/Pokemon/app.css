@@ -1,0 +1,19 @@
+.block {
+    display: inline-flex;
+    /* justify-content: flex-start; */
+}
+
+/* .block2 {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* .newImg {
+    display: flex;
+    flex-direction: column;
+} */
+
+
+.name {
+    text-align: center;
+}
