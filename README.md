@@ -1,3 +1,3 @@
 # MyProjects
-Different projects i've been part of.
+This is my Portfolio, everything i've created and learned.
 
